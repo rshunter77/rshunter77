@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rshunter77
+- 👋 Hi, I’m @rshunter77 aka Robin Hunter
 - 👀 I’m interested in data analytics, healthcare, social justice
 - 🌱 I’m currently learning how to create games in Python
 - 💞️ I’m looking to collaborate on interesting and unique projects
