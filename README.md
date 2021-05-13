@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rshunter77 aka Robin Hunter
-- 👀 I’m interested in data analytics, healthcare, social justice
+- 👀 I’m always looking to learn more about analytics, healthcare, social justice
 - 🌱 I’m currently learning how to create games in Python
 - 💞️ I’m looking to collaborate on interesting and unique projects
 - 📫 How to reach me—I'd love to connect on LinkedIn! https://www.linkedin.com/in/robinhunter11/
